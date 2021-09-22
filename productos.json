@@ -1,0 +1,21 @@
+[
+  {
+    "name": "lapicera",
+    "price": 60,
+    "thumbnail": "https://www.bikabik.com.ar/wp-content/uploads/2020/07/boligrafo-lapicera-faber-castell-trilux-032-azul-D_NQ_NP_859749-MLA33050396300_112019-F-min.jpg",
+    "id": 1
+  },
+  {
+    "name": "lapiz",
+    "price": 30,
+    "thumbnail": "https://wrmx00.epimg.net/radio/imagenes/2019/08/23/a_mi_manera/1566571184_134518_1566579117_noticia_normal_recorte1.jpg",
+    "id": 2
+  },
+  {
+    "name": "goma",
+    "price": 45,
+    "thumbnail": "https://inkgenio.com.ar/2371-large_default/goma-de-borrar-staedtler-526.jpg",
+    "id": 3
+  }
+
+]
